@@ -84,7 +84,7 @@
 /* Main */
 
 .main-container {
-  height: 85vh;
+  height: 100vh;
   background: var(--website-bg);
   display: flex;
   flex-direction: column;
@@ -410,7 +410,7 @@
 @media (min-width: 768px) and (max-width: 850px) {
 
   .main-container {
-    height: 90vh;
+    height: 100vh;
     padding-top: 1rem;
     padding-bottom: 1rem;
   }

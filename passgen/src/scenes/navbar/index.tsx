@@ -1,5 +1,4 @@
 import linkedIn from '@/assets/linkedin.svg'
-import twitter from '@/assets/twitter.svg'
 
 
 const Navbar = () => {
@@ -13,12 +12,10 @@ const Navbar = () => {
                       </div>
 
                 <div className="navbar-right">
-                              <a href="#">Github</a>
-                              <a href="#">Portfolio</a>
+                              <a href="https://github.com/JDDev7" target="_blank" rel="noreferrer">Github</a>
+                              <a href="https://jddev-portfolio.netlify.app" target="_blank" rel="noreferrer">Portfolio</a>
                               <div className="social-logos">
-                                  <a href="#"><img src={linkedIn} alt="" /></a>
-                                  <a href="#"><img src={twitter} alt="" /></a>
-                                  
+                                  <a href="https://www.linkedin.com/in/jdmorenopulido/" target="_blank" rel="noreferrer"><img src={linkedIn} alt="" /></a>
                               </div>
                           </div>
                           </div>
