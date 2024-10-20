@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "@types/react-anchor-link-smooth-scroll": "^1.0.5"
+  }
+}
