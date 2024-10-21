@@ -312,7 +312,7 @@
   opacity: 0.9;
 }
 
-@media (min-width: 340px) and (max-width: 430px) {
+@media (min-width: 340px) and (max-width: 767px) {
   /* Navbar */
   .logo-span-colored-1 {
     font-size: 1.2rem;
